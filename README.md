@@ -5,6 +5,10 @@
  <a href="mailto:lipestaub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<div style="text-align: center">
+ <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
+</div>
+
 ### Technologies I Use Daily:
 <div style="display: inline_block"><br>
  <a href="https://www.php.net/" target="_blank"><img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
@@ -23,11 +27,4 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
-</div>
-
-<br>
-<br>
-
-<div style="text-align: center">
- <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
 </div>
