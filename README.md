@@ -29,5 +29,5 @@
 <br>
 
 <div style="text-align: center">
- <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub"></a>
+ <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
 </div>
