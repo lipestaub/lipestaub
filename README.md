@@ -5,6 +5,8 @@
  <a href="mailto:lipestaub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<br>
+
 <div style="text-align: center">
  <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
 </div>
