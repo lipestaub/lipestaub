@@ -1,15 +1,15 @@
 ## Hi! My name is Felipe, nice to meet you! 👋
 
 <div>
- <a href="https://www.linkedin.com/in/lipestaub" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="mailto:lipestaub@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/lipestaub" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:lipestaub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br>
 
-<div style="display: inline_block">
- <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
- <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipestaub&layout=compact&theme=dracula"></a>
+<div style="display: inline_block; gap: 10px;">
+ <a href="#" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
+ <a href="#" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipestaub&layout=compact&theme=dracula"></a>
 </div>
 
 ### Technologies I Use Daily:
