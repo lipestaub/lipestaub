@@ -25,4 +25,6 @@
  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
 </div>
 
-<a href="#" target="_blank">![lipestaub's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipestaub)</a>
+<div style="text-align: center">
+ <a href="#" target="_blank">![lipestaub's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipestaub)</a>
+</div>
