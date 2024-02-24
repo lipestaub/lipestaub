@@ -24,8 +24,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
 </div>
-
-### lipestaub's GitHub stats:
+<br>
+<br>
 <div style="text-align: center">
  <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=lipestaub"></a>
 </div>
