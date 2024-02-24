@@ -8,8 +8,10 @@
 <br>
 
 <div style="display: inline-block;">
- <a href="#" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=github_dark"></a>
- <a href="#" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipestaub&layout=compact&theme=github_dark"></a>
+ <a href="https://github.com/lipestaub" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipestaub&include_all_commits=true&show_icons=true&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipestaub&layout=compact&theme=github_dark">
+ </a>
 </div>
 
 ### Technologies I Use Daily:
