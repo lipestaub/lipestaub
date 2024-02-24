@@ -7,8 +7,9 @@
 
 <br>
 
-<div style="text-align: center">
+<div style="display: inline_block">
  <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
+ <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipestaub&layout=compact&theme=dracula"></a>
 </div>
 
 ### Technologies I Use Daily:
