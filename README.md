@@ -7,7 +7,7 @@
 
 <br>
 
-<div style="display: inline_block; gap: 10px;">
+<div style="display: flex; justify-content: space-between;">
  <a href="#" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api?username=lipestaub&show_icons=true&theme=dracula"></a>
  <a href="#" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipestaub&layout=compact&theme=dracula"></a>
 </div>
